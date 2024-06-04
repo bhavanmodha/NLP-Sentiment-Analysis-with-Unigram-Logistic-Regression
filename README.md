@@ -45,8 +45,6 @@ This project focuses on building a sentiment analysis classifier using unigram l
 
 - **get_top_features(logreg_model, feature_dict, k=1)**: Selects the top k highest-weight features of a logistic regression model.
 
-## How to Run
-
 ### Requirements
 
 - Python 3.x
